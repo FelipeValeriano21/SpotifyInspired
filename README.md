@@ -5,3 +5,5 @@ Pagina inicial (Em produção)
 
 Continuação
 ![image](https://github.com/FelipeValeriano21/SpotifyInspired/assets/101677047/e04cdbb3-2661-4254-92b7-af0807315496)
+
+![Uploading image.png…]()
