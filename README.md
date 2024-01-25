@@ -6,4 +6,4 @@ Pagina inicial (Em produção)
 Continuação
 ![image](https://github.com/FelipeValeriano21/SpotifyInspired/assets/101677047/e04cdbb3-2661-4254-92b7-af0807315496)
 
-![Uploading image.png…]()
+![image](https://github.com/FelipeValeriano21/SpotifyInspired/assets/101677047/fb6f9c6e-b772-4689-9ab8-9e512817af8b)
